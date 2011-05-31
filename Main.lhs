@@ -13,10 +13,6 @@
 \defaultfontfeatures{Mapping=tex-text}
 
 
-
-%\usepackage[charter]{mathdesign}
-%\usepackage{setspace}\onehalfspacing
-
 \author{Rodrigo Machado}
 \title{Cálculo Lambda em Haskell}
 
